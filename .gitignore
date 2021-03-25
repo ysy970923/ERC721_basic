@@ -1,0 +1,6 @@
+build/
+migrations/
+node_modules/
+test/
+*.json
+truffle-config.js
